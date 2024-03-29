@@ -1,8 +1,8 @@
-name: 签到
+name: 个人修改版签到
 
 on:
   schedule:
-    - cron: 40 14,4 * * *
+    - cron: 11 11,1 * * *
   watch:
     types: started
 
