@@ -2,7 +2,7 @@ name: 个人修改版签到
 
 on:
   schedule:
-    - cron: 11 11,1 * * *
+    - cron: 11 00,06 * * *
   watch:
     types: started
 
